@@ -1,0 +1,18 @@
+.leftcounter{
+    background: #707B7C;
+    height: 90px;
+    float: left;
+}
+
+.rightcounter{
+    background: white;
+    height: 90px;
+}
+
+.displaycheck{
+    display:inline-block!important;
+}
+
+.changetogreen{
+    color:green!important;
+}
